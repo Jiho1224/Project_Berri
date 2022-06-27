@@ -51,11 +51,14 @@
 
 #### 3. 쇼핑몰 리뷰 분석 결과
 
+  <img src= https://user-images.githubusercontent.com/71589595/175860318-8b752869-b28f-4890-9755-ea4160bd9911.png width="300" height="150"/>  <img src= https://user-images.githubusercontent.com/71589595/175860365-c3aea072-67ec-483e-a348-87d5c230af2e.png
+ width="300" height="150"/>
+
   ###### - 리뷰 갯수, 사용자 총 평점 및 재구매율
   ###### - 각 제품 옵션 별 평점 및 토픽 별 평점 제공(디자인, 무게, 품질 등)
   ###### - 토픽 별 리뷰 및 각 제품 별 구매 순위
   ###### - 리뷰 작성 시간 및 워드 클라우드
 
 
-## 구성
+
 
