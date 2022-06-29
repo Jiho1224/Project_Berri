@@ -61,4 +61,10 @@
 
 
 
+## 시스템 구성도
+![image](https://user-images.githubusercontent.com/71589595/176372127-5f41bd86-00ac-4cd6-8475-6b9cbbefbe0d.png)
 
+ ###### Language : Python, R (for topicModeling)
+ ###### Front-end : Vanilla JS, HTML, CSS        Back-end : Flask (Python)
+ ###### Database : MongoDB (Non-SQL)
+ ###### 주요 라이브러리 : 크롤링을 위한 bs4, Selenium, NLP를 위한 KONLPY, 감성 분석을 위한 LSTM
